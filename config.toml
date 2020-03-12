@@ -1,6 +1,6 @@
 baseurl = "https://example.com"
-title = "gohugo.io"
-author = "Steve Francia"
+title = "HackCU"
+author = "HackCU"
 copyright = "Copyright © 2008–2018, Steve Francia and the Hugo Authors; all rights reserved."
 canonifyurls = true
 paginate = 3
@@ -12,12 +12,12 @@ pygmentsUseClasses=true
 #googleAnalytics = ""
 
 [params]
-author = "Steve Francia"
-introDescription = "Hi, I'm Steve Francia. Author, Speaker, Developer, Creator of Hugo, Cobra and spf13-vim. Former Docker and MongoDB."
+author = "HackCU"
+introDescription = "Welcome to the CU Boulder Cybersecurity Club. Here you will find all sorts of resources to support your hacking needs."
 contentSharing = "I'm happy for you to share content on this site, but please provide attribution."
 
 [social]
-instagram = "realmattbutton"
-linkedin = "matt-button-2225537"
-twitter = "realmattbutton"
+instagram = "tbd"
+linkedin = "tbd"
+twitter = "tbd"
 
